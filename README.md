@@ -1,6 +1,7 @@
-# Excel Demo Program  
-java swing을 이용하여, Excel기능을 일부 구현한 프로그램  
+# Excel Demo Program   
 ---
+
+java swing을 이용하여, Excel기능을 일부 구현한 프로그램  
 ## 구현기능
 
 * 프로그램이 실행되면, 가로 610, 세로 588인 크기 조절 가능한 창이 나오도록 생성자 구현
